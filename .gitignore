@@ -1,0 +1,4 @@
+# ignore files in folder foo
+vendor/*
+# but keep the folder
+!vendor/.keep
